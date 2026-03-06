@@ -1,5 +1,5 @@
 # Single-Neuron-Network-with-and-without-PCA
-Entrenamiento de dos modelos con y sin el uso de PCA (Análisis de Componentes Principales) de una red de una sola neurona aplicando el uso de un dataset proveniente de UC Irvine Machine Learning Repository. El dataset es sobre del monitoreo de gas y posición en hogares de personas mayores de edad usando variables de temperatura, humedad, CO2, CO y MOX. Dentro del archivo .ipynb se encuentra el código que se usó para el entrenamiento, y validación del modelo, así como las gráficas y tablas para analizar su aprendizaje y rendimiento.
+Entrenamiento de dos modelos con y sin el uso de PCA (Análisis de Componentes Principales) de una red de una sola neurona aplicando el uso de un dataset proveniente de UC Irvine Machine Learning Repository. El dataset es sobre del monitoreo de gas y posición en hogares de personas mayores de edad usando variables de temperatura, humedad, CO2, CO y MOX. Se busca la variable booleana objetivo "target", que clasifica si de acuerdo con los datos de las variables descriptivas, se esta presentando un entorno regular o con presencia de una fuga de gas. Dentro del archivo .ipynb se encuentra el código que se usó para el entrenamiento, y validación del modelo, así como las gráficas y tablas para analizar su aprendizaje y rendimiento.
 
 ## Bibliografia
 
